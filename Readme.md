@@ -34,39 +34,39 @@ This repository contains all the tasks, deliverables, and projects for the **1-M
   - Import CSV datasets into Google Colab/Jupyter.
   - Explore, clean, and organize data.
   - Handle missing values and apply basic data analysis techniques.
-- **Deliverables:** *(Coming soon)*
+- **Deliverables:** `Codomax_Module_02.ipynb`
 
 ### ⏳ Module 03: Data Visualization
-- **Status:** In Progress
+- **Status:** Completed
 - **Objectives:** 
   - Create charts and graphs using Matplotlib and Seaborn.
   - Build Bar Charts, Line Charts, Pie Charts, Histograms, and Scatter Plots.
   - Identify patterns, trends, and key insights from data.
-- **Deliverables:** *(Coming soon)*
+- **Deliverables:** `Codomax_Module_03.ipynb`
 
 ### ⏳ Module 04: Machine Learning Basics
-- **Status:** Pending
+- **Status:** Completed
 - **Objectives:** 
   - Learn the basics of Machine Learning using Scikit-learn.
   - Build beginner predictability models (e.g., Student Score, House Price, Iris Flower Classification).
   - Train, test, and evaluate model performance.
-- **Deliverables:** *(Coming soon)*
+- **Deliverables:** `Codomax_Module_04.ipynb`
 
 ### ⏳ Module 05: Data Science Mini Project
-- **Status:** Pending
+- **Status:** Completed
 - **Objectives:** 
   - Choose a real-world dataset from Kaggle or public sources.
   - Analyze the dataset and generate meaningful insights.
   - Create visualizations and summarize findings in a notebook.
-- **Deliverables:** *(Coming soon)*
+- **Deliverables:** `Codomax_Module_05.ipynb`
 
 ### ⏳ Module 06: Final Data Science Project
-- **Status:** Pending
+- **Status:** Completed
 - **Objectives:** 
   - Complete an end-to-end Data Science project including EDA & Machine Learning.
   - Upload the completed notebook to GitHub.
   - Prepare the work as a portfolio-ready project.
-- **Deliverables:** *(Coming soon)*
+- **Deliverables:** `Codomax_Module_06.ipynb`
 
 ---
-**Milestone:** *Upon completing all 6 modules, this repository will represent the final Capstone Milestone for the MSME Govt. Verified Credential.*
+**Milestone:** *This repository represent the final Capstone Milestone for the MSME Govt. Verified Credential.*
