@@ -1,72 +1,50 @@
-# Codomax Data Science Internship 2026 🚀
+# 🚀 Codomax Data Science Internship 2026 
 
-## Overview
-This repository contains all the tasks, deliverables, and projects for the **1-Month Data Science Virtual Internship** at **Codomax Digital Solutions**. It serves as a comprehensive portfolio documenting my progress from core Python fundamentals to end-to-end Machine Learning implementations.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-## Intern Information
+## 📌 Overview
+Welcome to my official repository for the **1-Month Data Science Virtual Internship** at **Codomax Digital Solutions**. 
+This repository serves as a comprehensive portfolio documenting my hands-on progress, covering core Python fundamentals, Exploratory Data Analysis (EDA), Data Visualization, and end-to-end Machine Learning implementations.
+
+## 👨‍💻 Intern Information
 - **Name:** Mohamed Tamer Elsheikh
 - **Track:** Data Science
 - **Intern ID:** CDS/INT/2026/26111173
 - **University:** Faculty of Computers and Artificial Intelligence, Benha University
-
-## Tech Stack & Tools
-- **Languages:** Python 3
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Environments:** Jupyter Notebook, Google Colab
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-tamer-elsheikh) *(Replace with your actual profile link)*
 
 ---
 
 ## 📅 Internship Curriculum & Progress Tracker
 
-### ✅ Module 01: Python & Data Science Fundamentals
-- **Status:** Completed
-- **Objectives:** 
-  - Set up a Python environment and IDEs.
-  - Practice fundamental Python concepts: Variables, Loops, Functions, Lists, and Dictionaries.
-  - Perform Data File Handling operations.
-  - Explore introductory Data Science concepts and real-world applications.
-- **Deliverables:** `Codomax_Module_01.ipynb`
-
-### ⏳ Module 02: Data Analysis with Python
-- **Status:** Completed
-- **Objectives:** 
-  - Work with datasets using Pandas and NumPy.
-  - Import CSV datasets into Google Colab/Jupyter.
-  - Explore, clean, and organize data.
-  - Handle missing values and apply basic data analysis techniques.
-- **Deliverables:** `Codomax_Module_02.ipynb`
-
-### ⏳ Module 03: Data Visualization
-- **Status:** Completed
-- **Objectives:** 
-  - Create charts and graphs using Matplotlib and Seaborn.
-  - Build Bar Charts, Line Charts, Pie Charts, Histograms, and Scatter Plots.
-  - Identify patterns, trends, and key insights from data.
-- **Deliverables:** `Codomax_Module_03.ipynb`
-
-### ⏳ Module 04: Machine Learning Basics
-- **Status:** Completed
-- **Objectives:** 
-  - Learn the basics of Machine Learning using Scikit-learn.
-  - Build beginner predictability models (e.g., Student Score, House Price, Iris Flower Classification).
-  - Train, test, and evaluate model performance.
-- **Deliverables:** `Codomax_Module_04.ipynb`
-
-### ⏳ Module 05: Data Science Mini Project
-- **Status:** Completed
-- **Objectives:** 
-  - Choose a real-world dataset from Kaggle or public sources.
-  - Analyze the dataset and generate meaningful insights.
-  - Create visualizations and summarize findings in a notebook.
-- **Deliverables:** `Codomax_Module_05.ipynb`
-
-### ⏳ Module 06: Final Data Science Project
-- **Status:** Completed
-- **Objectives:** 
-  - Complete an end-to-end Data Science project including EDA & Machine Learning.
-  - Upload the completed notebook to GitHub.
-  - Prepare the work as a portfolio-ready project.
-- **Deliverables:** `Codomax_Module_06.ipynb`
+| Module | Topic | Status | Key Deliverables & Skills Acquired |
+|:---:|:---|:---:|:---|
+| **01** | **Python & Data Science Fundamentals** | ✅ Completed | Python setup, Data Structures, Control Flow, File Handling. |
+| **02** | **Data Analysis with Python** | ✅ Completed | Dataset handling, Pandas & NumPy operations, Missing value imputation (EDA). |
+| **03** | **Data Visualization** | ✅ Completed | Matplotlib & Seaborn (Bar, Line, Pie, Histograms, Scatter plots) & insights extraction. |
+| **04** | **Machine Learning Basics** | ✅ Completed | Train/Test splits, Linear/Multiple Regression, Random Forest Classification, Model evaluation metrics (MSE, R2, Accuracy). |
+| **05** | **Data Science Mini Project** | ⏳ Pending | Applying models to real-world Kaggle datasets & deriving actionable insights. |
+| **06** | **Final Data Science Project** | ⏳ Pending | Building and deploying a portfolio-ready end-to-end Machine Learning project. |
 
 ---
-**Milestone:** *This repository represent the final Capstone Milestone for the MSME Govt. Verified Credential.*
+
+## 🛠️ Repository Contents & Files
+*The specific `.ipynb` files for each completed module are located in the root of this repository. They are thoroughly documented using markdown cells.*
+
+- 📄 `Codomax_Module_01.ipynb`
+- 📄 `Codomax_Module_02.ipynb`
+- 📄 `Codomax_Module_03.ipynb`
+- 📄 `Codomax_Module_04.ipynb`
+
+---
+
+## 🏆 Capstone Milestone
+*Upon successful completion and evaluation of all 6 modules, this repository will represent the final milestone for achieving the MSME Govt. Verified Data Science Credential.*
+
+<br/>
+
+> *"Data is the new oil. It’s valuable, but if unrefined it cannot really be used."*
