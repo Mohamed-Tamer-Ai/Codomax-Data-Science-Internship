@@ -28,7 +28,7 @@ This repository contains all the tasks, deliverables, and projects for the **1-M
 - **Deliverables:** `Codomax_Module_01.ipynb`
 
 ### ⏳ Module 02: Data Analysis with Python
-- **Status:** In Progress
+- **Status:** Completed
 - **Objectives:** 
   - Work with datasets using Pandas and NumPy.
   - Import CSV datasets into Google Colab/Jupyter.
@@ -37,7 +37,7 @@ This repository contains all the tasks, deliverables, and projects for the **1-M
 - **Deliverables:** *(Coming soon)*
 
 ### ⏳ Module 03: Data Visualization
-- **Status:** Pending
+- **Status:** In Progress
 - **Objectives:** 
   - Create charts and graphs using Matplotlib and Seaborn.
   - Build Bar Charts, Line Charts, Pie Charts, Histograms, and Scatter Plots.
