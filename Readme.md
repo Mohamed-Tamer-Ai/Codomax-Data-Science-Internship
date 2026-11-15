@@ -15,7 +15,7 @@ This repository serves as a comprehensive portfolio documenting my hands-on prog
 - **Track:** Data Science
 - **Intern ID:** CDS/INT/2026/26111173
 - **University:** Faculty of Computers and Artificial Intelligence, Benha University
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-tamer-elsheikh) *(Replace with your actual profile link)*
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-tamer-elsheikh)
 
 ---
 
