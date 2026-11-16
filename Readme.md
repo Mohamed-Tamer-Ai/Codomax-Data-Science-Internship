@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 Welcome to my official repository for the **1-Month Data Science Virtual Internship** at **Codomax Digital Solutions**. 
-This repository serves as a comprehensive portfolio documenting my hands-on progress, covering core Python fundamentals, Exploratory Data Analysis (EDA), Data Visualization, and end-to-end Machine Learning implementations.
+This repository serves as a comprehensive portfolio documenting my hands-on progress, covering core Python fundamentals, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning fundamentals, real-world Kaggle mini-projects, and end-to-end Capstone implementations.
 
 ## 👨‍💻 Intern Information
 - **Name:** Mohamed Tamer Elsheikh
@@ -27,23 +27,25 @@ This repository serves as a comprehensive portfolio documenting my hands-on prog
 | **02** | **Data Analysis with Python** | ✅ Completed | Dataset handling, Pandas & NumPy operations, Missing value imputation (EDA). |
 | **03** | **Data Visualization** | ✅ Completed | Matplotlib & Seaborn (Bar, Line, Pie, Histograms, Scatter plots) & insights extraction. |
 | **04** | **Machine Learning Basics** | ✅ Completed | Train/Test splits, Linear/Multiple Regression, Random Forest Classification, Model evaluation metrics (MSE, R2, Accuracy). |
-| **05** | **Data Science Mini Project** | ✅ Completed | Applying models to real-world Kaggle datasets & deriving actionable insights. |
-| **06** | **Final Data Science Project** | ⏳ Pending | Building and deploying a portfolio-ready end-to-end Machine Learning project. |
+| **05** | **Data Science Mini Project** | ✅ Completed | Real-world Kaggle Telco Churn dataset analysis, EDA, and actionable business insights. |
+| **06** | **Final Data Science Project** | ✅ Completed | End-to-end California Housing Capstone project featuring advanced EDA and Random Forest regression modeling. |
 
 ---
 
 ## 🛠️ Repository Contents & Files
-*The specific `.ipynb` files for each completed module are located in the root of this repository. They are thoroughly documented using markdown cells.*
+*All Jupyter Notebooks for the completed modules and the final capstone project are located in the root of this repository:*
 
-- 📄 `Codomax_Module_01.ipynb`
-- 📄 `Codomax_Module_02.ipynb`
-- 📄 `Codomax_Module_03.ipynb`
-- 📄 `Codomax_Module_04.ipynb`
+- 📄 `Codomax_Module_01.ipynb` — Python & Data Science Fundamentals
+- 📄 `Codomax_Module_02.ipynb` — Data Analysis with Pandas & NumPy
+- 📄 `Codomax_Module_03.ipynb` — Data Visualization with Matplotlib & Seaborn
+- 📄 `Codomax_Module_04.ipynb` — Machine Learning Basics (Scikit-Learn)
+- 📄 `Codomax_Module_05-v2.ipynb` — Mini Project: Telco Customer Churn Analysis
+- 📄 `Codomax_Module_06_Capstone.ipynb` — Final Capstone Project: California Housing Prediction
 
 ---
 
-## 🏆 Capstone Milestone
-*Upon successful completion and evaluation of all 6 modules, this repository will represent the final milestone for achieving the MSME Govt. Verified Data Science Credential.*
+## 🏆 Capstone Milestone & Certification
+*Upon successful evaluation and completion of all 6 modules, this repository marks the final milestone required to unlock the Central Govt. MSME Recognized Verified Certificate and exclusive ATS Resume templates.*
 
 <br/>
 
