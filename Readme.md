@@ -27,7 +27,7 @@ This repository serves as a comprehensive portfolio documenting my hands-on prog
 | **02** | **Data Analysis with Python** | ✅ Completed | Dataset handling, Pandas & NumPy operations, Missing value imputation (EDA). |
 | **03** | **Data Visualization** | ✅ Completed | Matplotlib & Seaborn (Bar, Line, Pie, Histograms, Scatter plots) & insights extraction. |
 | **04** | **Machine Learning Basics** | ✅ Completed | Train/Test splits, Linear/Multiple Regression, Random Forest Classification, Model evaluation metrics (MSE, R2, Accuracy). |
-| **05** | **Data Science Mini Project** | ⏳ Pending | Applying models to real-world Kaggle datasets & deriving actionable insights. |
+| **05** | **Data Science Mini Project** | ✅ Completed | Applying models to real-world Kaggle datasets & deriving actionable insights. |
 | **06** | **Final Data Science Project** | ⏳ Pending | Building and deploying a portfolio-ready end-to-end Machine Learning project. |
 
 ---
